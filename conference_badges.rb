@@ -5,5 +5,5 @@ end
 attendees = ["Edsger", "Ada", "Charles", "Alan", "G
 
 def batch_badge_maker(attendees)
-
+sentances = []
 end  
